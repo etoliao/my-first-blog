@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #000000;
+    background-color: #7feb8d;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -9,7 +9,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #D4AF37;
+    color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -59,12 +59,12 @@ h4 {
 
 .btn-default,
 .btn-default:visited {
-    color: #ff0000;
+    color: #61b36b;
     background: none;
-    border-color: #ff000096;
+    border-color: #3f7747;
 }
 
 .btn-default:hover {
     color: #FFFFFF;
-    background-color: #ff000062;
+    background-color: #254429;
 }
